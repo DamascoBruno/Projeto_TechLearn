@@ -175,7 +175,7 @@ O sistema conta com **ranking em tempo real** do setor, **pódio dos 3 melhores*
 ## 👤 Autor
 
 **Bruno Damasco**
-Colaborador · Área de Automação Industrial · Toyota Motor
+Colaborador · Área de Manutenção · Mecatrônica · Toyota Motor
 
 [![GitHub](https://img.shields.io/badge/GitHub-DamascoBruno-181717?style=flat-square&logo=github)](https://github.com/DamascoBruno)
 
