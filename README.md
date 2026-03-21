@@ -19,7 +19,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **Toyota TechLearn** é uma plataforma web de treinamento técnico desenvolvida para capacitar colaboradores da área de **Automação Industrial** da Toyota Motor. O projeto nasceu da necessidade de tornar o aprendizado técnico mais dinâmico, gamificado e acessível — tanto no computador quanto no celular, inclusive em ambientes com sinal de internet instável.
+O **Toyota TechLearn** é uma plataforma web de treinamento técnico desenvolvida para capacitar Aprendizes da área de **Mecatrônica** da Toyota Motor. O projeto nasceu da necessidade de tornar o aprendizado técnico mais dinâmico, gamificado e acessível — tanto no computador quanto no celular, inclusive em ambientes com sinal de internet instável.
 
 > 💡 *Projeto desenvolvido como iniciativa interna para digitalizar e modernizar o processo de treinamento de aprendizes e técnicos da linha de produção.*
 
