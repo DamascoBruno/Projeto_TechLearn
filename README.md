@@ -144,11 +144,17 @@ O sistema conta com **ranking em tempo real** do setor, **pódio dos 3 melhores*
 
 | Tela de Login | Dashboard Aprendiz | Módulo de Estudo |
 |:---:|:---:|:---:|
-| *(em breve)* | *(em breve)* | *(em breve)* |
+| <img width="778" height="778" alt="login" src="https://github.com/user-attachments/assets/81cebf09-5610-43b8-bb7e-5b74e1bc0910" />
+ | <img width="1234" height="743" alt="dashboard" src="https://github.com/user-attachments/assets/e5ca1975-fac5-475d-8cf2-dbece254cd76" />
+ | <img width="967" height="852" alt="estudo" src="https://github.com/user-attachments/assets/71b88ca3-3833-48c2-94e8-cca5cf2d2720" />
+ |
 
 | Quiz | Ranking | Painel Supervisor |
 |:---:|:---:|:---:|
-| *(em breve)* | *(em breve)* | *(em breve)* |
+| <img width="625" height="886" alt="quiz" src="https://github.com/user-attachments/assets/d2662624-f498-40c2-9733-7f636c8d11fb" />
+ | <img width="955" height="662" alt="ranking" src="https://github.com/user-attachments/assets/db523f75-927e-43ef-88d5-4bcae28c84e3" />
+ | <img width="1213" height="752" alt="supervisor" src="https://github.com/user-attachments/assets/3eb9ded9-c425-4f21-ae64-1eeae3ed4954" />
+ |
 
 ---
 
