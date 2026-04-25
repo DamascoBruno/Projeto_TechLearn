@@ -140,21 +140,24 @@ O sistema conta com **ranking em tempo real** do setor, **pódio dos 3 melhores*
 
 ---
 
-## 📸 Screenshots
+## 🚀 Demonstração do Projeto
 
-| Tela de Login | Dashboard Aprendiz | Módulo de Estudo |
-|:---:|:---:|:---:|
-| <img width="778" height="778" alt="login" src="https://github.com/user-attachments/assets/81cebf09-5610-43b8-bb7e-5b74e1bc0910" />
- | <img width="1234" height="743" alt="dashboard" src="https://github.com/user-attachments/assets/e5ca1975-fac5-475d-8cf2-dbece254cd76" />
- | <img width="967" height="852" alt="estudo" src="https://github.com/user-attachments/assets/71b88ca3-3833-48c2-94e8-cca5cf2d2720" />
- |
+Este sistema foi desenvolvido para otimizar o treinamento e a gestão de aprendizes, focando em usabilidade e gamificação.
 
-| Quiz | Ranking | Painel Supervisor |
-|:---:|:---:|:---:|
-| <img width="625" height="886" alt="quiz" src="https://github.com/user-attachments/assets/d2662624-f498-40c2-9733-7f636c8d11fb" />
- | <img width="955" height="662" alt="ranking" src="https://github.com/user-attachments/assets/db523f75-927e-43ef-88d5-4bcae28c84e3" />
- | <img width="1213" height="752" alt="supervisor" src="https://github.com/user-attachments/assets/3eb9ded9-c425-4f21-ae64-1eeae3ed4954" />
- |
+### 💻 Interface do Usuário (UI)
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Tela de Login</b><br><img src="https://github.com/user-attachments/assets/81cebf09-5610-43b8-bb7e-5b74e1bc0910" width="300"></td>
+    <td align="center"><b>Dashboard do Aprendiz</b><br><img src="https://github.com/user-attachments/assets/e5ca1975-fac5-475d-8cf2-dbece254cd76" width="300"></td>
+    <td align="center"><b>Módulo de Estudo</b><br><img src="https://github.com/user-attachments/assets/71b88ca3-3833-48c2-94e8-cca5cf2d2720" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Quiz Interativo</b><br><img src="https://github.com/user-attachments/assets/d2662624-f498-40c2-9733-7f636c8d11fb" width="300"></td>
+    <td align="center"><b>Ranking Gamificado</b><br><img src="https://github.com/user-attachments/assets/db523f75-927e-43ef-88d5-4bcae28c84e3" width="300"></td>
+    <td align="center"><b>Painel do Supervisor</b><br><img src="https://github.com/user-attachments/assets/3eb9ded9-c425-4f21-ae64-1eeae3ed4954" width="300"></td>
+  </tr>
+</table>
 
 ---
 
